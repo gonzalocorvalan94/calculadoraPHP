@@ -10,7 +10,7 @@ function menuPrincipal(): void
       "4. División\n",
       "5. Salir\n"
     ];
-    
+
     foreach ($opciones as $opcion) {
         echo $opcion;
     }
